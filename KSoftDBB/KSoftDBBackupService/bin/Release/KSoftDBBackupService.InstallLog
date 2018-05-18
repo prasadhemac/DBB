@@ -1,0 +1,797 @@
+﻿Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Creating EventLog source KSoftDBBService in log Application...
+Rolling back assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Restoring event log to previous state for source KSoftDBBService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Attempt to stop service KSoftDBBService.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Warning: The source KSoftDBBService is not registered on the local machine.
+Service KSoftDBBService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Uninstalling assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Removing EventLog source KSoftDBBService.
+Service KSoftDBBService is being removed from the system...
+Service KSoftDBBService was successfully removed from the system.
+Installing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+Installing service KSoftDBBService...
+Service KSoftDBBService has been successfully installed.
+Creating EventLog source KSoftDBBService in log Application...
+Committing assembly 'D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.InstallLog
+   assemblypath = D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe

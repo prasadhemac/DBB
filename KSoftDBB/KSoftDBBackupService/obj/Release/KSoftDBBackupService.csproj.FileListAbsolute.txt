@@ -1,0 +1,13 @@
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe.config
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.exe
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\KSoftDBBackupService.pdb
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\MySql.Data.dll
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\MySqlBackup.dll
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Release\MySql.Data.xml
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.csproj.KSoftDBBackupService.exe.config
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.KSoftDBBService.resources
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.ProjectInstaller.resources
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.csproj.GenerateResource.Cache
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.exe
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.pdb
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Release\KSoftDBBackupService.csprojResolveAssemblyReference.cache

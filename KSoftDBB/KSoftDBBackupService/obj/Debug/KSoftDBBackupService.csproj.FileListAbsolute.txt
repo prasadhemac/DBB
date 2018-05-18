@@ -1,0 +1,9 @@
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Debug\KSoftDBBackupService.exe.config
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Debug\KSoftDBBackupService.exe
+D:\add_work\KSoftDBB\KSoftDBBackupService\bin\Debug\KSoftDBBackupService.pdb
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.csprojResolveAssemblyReference.cache
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.KSoftDBBService.resources
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.ProjectInstaller.resources
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.csproj.GenerateResource.Cache
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.exe
+D:\add_work\KSoftDBB\KSoftDBBackupService\obj\Debug\KSoftDBBackupService.pdb
